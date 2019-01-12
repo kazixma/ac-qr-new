@@ -30,7 +30,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "react-native-camera": "^0.7.0"
+    "react-native-camera": "https://github.com/kazixma/react-native-camera/tarball/master"
   },
   "deprecated": false,
   "description": "A Highly customizable QRCode Scanner component for React Native",
